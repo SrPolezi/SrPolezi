@@ -31,5 +31,6 @@
 </div>
 
 ## My Trophys
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srpolezi" alt="srpolezi" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=srpolezi&theme=radical&no-frame=true)](https://github.com/srpolezi/github-profile-trophy)
+
 
